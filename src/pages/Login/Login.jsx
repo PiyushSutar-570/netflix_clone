@@ -54,7 +54,3 @@ const Login = () => {
 }
 
 export default Login
-
-//04587302948cf2e237db52b0dba4b39d
-
-//eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwNDU4NzMwMjk0OGNmMmUyMzdkYjUyYjBkYmE0YjM5ZCIsIm5iZiI6MTczNzExODA5My44NzUsInN1YiI6IjY3OGE1MThkOTNmNzQyY2MyOWFkMTE2YyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.k6WFrGCB0VrGg_HoKtgEB4c-1Hcrr4vLa29zSyvkOsc
